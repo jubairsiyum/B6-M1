@@ -19,4 +19,5 @@ switch ($input){
         break;
     default:
         echo "OSTAD bhul input disen tohhhh!!!";
+        break;
 }
